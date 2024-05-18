@@ -1,0 +1,9 @@
+[submodule "jolisoiseaux-docs"]
+	path = jolisoiseaux-docs
+	url = https://github.com/raphaelgrougnet/jolisoiseaux-docs.git
+[submodule "jolisoiseaux-app"]
+	path = jolisoiseaux-app
+	url = https://github.com/raphaelgrougnet/jolisoiseaux-app.git
+[submodule "jolisoiseaux-raspberrypi"]
+	path = jolisoiseaux-raspberrypi
+	url = https://github.com/raphaelgrougnet/jolisoiseaux-raspberrypi.git
